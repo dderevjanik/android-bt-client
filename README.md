@@ -1,6 +1,6 @@
 # Android bluetooth client
 
-[android-bt-client.apk]()
+[android-bt-client.apk](https://github.com/dderevjanik/android-bt-client/releases)
 
 ## Android app (BT Client)
 
@@ -12,7 +12,7 @@ Tested on Android 4.x and Android 6.x
 2. Click on device you want to connect (make sure the device you're connecting to, is running bt-server)
 3. To switch which sensor data you want to send to server, just clik on one of two Switch-s
 
-## Bluetooth server (Server)
+## Bluetooth server (Python)
 
 ![bt server screenshot](bt-server.jpg)
 
